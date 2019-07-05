@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SRFNprojectJULY19v1")]
+[assembly: AssemblyTitle("SRFNprojectJULY19v2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SRFNprojectJULY19v1")]
+[assembly: AssemblyProduct("SRFNprojectJULY19v2")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("30301f16-dc09-43f5-b774-132cf2836393")]
+[assembly: Guid("6f753e0e-aee9-41e7-928b-df2f293e2354")]
 
 // Version information for an assembly consists of the following four values:
 //

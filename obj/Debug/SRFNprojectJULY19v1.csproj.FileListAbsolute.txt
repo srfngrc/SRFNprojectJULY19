@@ -1,7 +1,0 @@
-C:\VSprojects\SRFNprojectJULY19v1\bin\Debug\SRFNprojectJULY19v1.exe.config
-C:\VSprojects\SRFNprojectJULY19v1\bin\Debug\SRFNprojectJULY19v1.exe
-C:\VSprojects\SRFNprojectJULY19v1\bin\Debug\SRFNprojectJULY19v1.pdb
-C:\VSprojects\SRFNprojectJULY19v1\obj\Debug\SRFNprojectJULY19v1.csprojAssemblyReference.cache
-C:\VSprojects\SRFNprojectJULY19v1\obj\Debug\SRFNprojectJULY19v1.csproj.CoreCompileInputs.cache
-C:\VSprojects\SRFNprojectJULY19v1\obj\Debug\SRFNprojectJULY19v1.exe
-C:\VSprojects\SRFNprojectJULY19v1\obj\Debug\SRFNprojectJULY19v1.pdb
